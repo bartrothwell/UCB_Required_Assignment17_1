@@ -8,7 +8,7 @@
 
 This README file summarizes the findings of a comparison of four classification models (Logistic Regression, K Nearest Neighbors, Decision Trees, and Support Vector Machines) on the task of predicting the outcome of a bank marketing campaign in which bank clients are contacted to see if they will subscribe to a term deposit.
 
-Link to Jupyter Notebook with the full analysis: https://github.com/bartrothwell/UCB\_Required\_Assignment17\_1/blob/main/RequiredAssignment17\_1\_Rothwell.ipynb
+Link to Jupyter Notebook with the full analysis: https://github.com/bartrothwell/UCB_Required_Assignment17_1/blob/main/RequiredAssignment17_1_Rothwell.ipynb
 
 #### Plot of Primary Findings:
 
