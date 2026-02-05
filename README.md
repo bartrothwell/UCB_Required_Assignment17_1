@@ -12,7 +12,7 @@ Link to Jupyter Notebook with the full analysis: https://github.com/bartrothwell
 
 #### Plot of Primary Findings:
 
-!\[](images/ModelPerformance.png)
+![](images/ModelPerformance.png)
 
 #### Summary of Findings
 
